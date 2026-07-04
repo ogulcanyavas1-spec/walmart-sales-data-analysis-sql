@@ -73,3 +73,6 @@ ORDER BY Ortalama_Haftalik_Satis DESC;
 Talep Planlaması ve Envanter Yönetimi: Tatil haftalarında satışlarda ciddi dönemsel artışlar gözlemlenmiştir. Bu durum, tedarik zinciri süreçlerinde emniyet stoklarının ve sevkiyat planlamalarının optimize edilmesi gerektiğini göstermektedir.
 
 Risk Yönetimi: Benzin fiyatları ve enflasyon gibi makroekonomik verilerin tüketici harcamaları üzerindeki korelasyonu incelenerek, ekonomik daralma dönemlerinde hangi mağaza segmentlerinin daha dayanıklı olduğu analiz edilmiştir.
+
+## Dashboard Overview
+![Walmart Sales Analytics Dashboard](walmart_dashboard_snapshot.png)
